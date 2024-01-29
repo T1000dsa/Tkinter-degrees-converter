@@ -38,4 +38,5 @@ entr2.grid(column=1, row=1)
 butt2 = tk.Button(width=15, height=1, command=switch_fr).grid(column=1, row=2)
 lab4 = tk.Label(text='None', width=15, height=2)
 lab4.grid(column=1, row=3)
+
 wind.mainloop()
